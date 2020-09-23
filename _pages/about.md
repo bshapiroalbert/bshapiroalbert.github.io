@@ -1,11 +1,11 @@
 ---
 permalink: /about/
-title: "About"
+title: "About Me"
 ---
-I’m a fifth year PhD student at West Virginia University in Morgantown, WV. I work for Prof. Maura McLaughlin and am a member of the North American Nanohertz Observatory for Gravitational Waves (NANOGrav) Collaboration, which uses pulsar timing arrays to detect nanohertz gravitational waves. My research mostly involves pulsars, pulsar timing, studying how the interstellar medium affects pulsar signals, and a little bit of pulsar searching. More on that here [link].
+I’m a fifth year PhD student at West Virginia University in Morgantown, WV. I work for Prof. Maura McLaughlin and am a member of the North American Nanohertz Observatory for Gravitational Waves (NANOGrav) Collaboration, which uses pulsar timing arrays to detect nanohertz gravitational waves. My research mostly involves pulsars, pulsar timing, studying how the interstellar medium affects pulsar signals, and a little bit of pulsar searching. More on that [here](research.md).
 
 
-##My Story:
+## My Story:
 
 I am originally from a small town in the northwest corner of Connecticut. My Dad taught high school physics and my Mom was the directory of our town’s local historical society. While I always was interested in science, my favorite subject was always history. When I was applying to college I wanted to major in history and eventually work in a museum. 
 
@@ -15,12 +15,12 @@ But I ended up really liking physics. It was challenging and it made sense to me
 
 The next summer I had the opportunity to do a research experience for undergraduates (REU) at Cornell University, working for Prof. Jim Cordes where I first heard of neutron stars and pulsars, and decided that I would rather study them than do telescope instrumentation. I also realized that Summer that I really wanted to go to graduate school and do research. I applied to graduate schools that Fall and ended up at West Virginia University, where I have been since.
 
-##Hobbies:
+## Hobbies:
 
 In addition to research and other science related activities, I enjoy hiking and there are many different trails and parks to explore in WV. I also enjoy watching sports, particularly hockey (go Flyers) and football (go Patriots, sorry). The Summer Olympics are my favorite thing to watch though, as it’s one of the only times I get to watch wrestling, which I did through high school, and track and field, which I did starting in high school through college. My event was pole vault, so of course it’s my favorite one to watch.
 
 When there’s no sports on and we can’t go hiking, I also enjoy reading, particularly fantasy and science fiction, and video games. Recently I’ve been reading Brandon Sanderson’s Mistborn series and the Stormlight Archives. I am also a big fan of Patrick Rothfuss’s Kingkiller Chronicles, and am still waiting for the last few Game of Thrones books. For video games I’m a big fan of the Legend of Zelda series, Breath of the Wild was fantastic, and Final Fantasy. I would also highly recommend Shovel Knight and Hollow Knight, two great indie games.
 
-##Contact:
+## Contact:
 
-If you’d like to get in touch with me about my research or anything else, you can email me at bshapiroalbert@gmail.com or find me on twitter @bshaprioalbert.
+If you’d like to get in touch with me about my research or anything else, you can email me at bshapiroalbert@gmail.com or find me on twitter @bshapiroalbert.
