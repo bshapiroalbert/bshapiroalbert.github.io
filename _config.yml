@@ -86,6 +86,9 @@ author:
     - label: "ORCiD"
       icon: "fab fa-fw fa-orcid"
       url: "https://orcid.org/0000-0002-7283-1124"
+    - label: "CV"
+      icon: "fas fa-fw fa-file"
+      url: "https://github.com/bshapiroalbert/bshapiroalbert.github.io/raw/master/assets/files/Shapiro_Albert_CV_website.pdf"
 
 footer:
   links:
