@@ -1,5 +1,5 @@
 ---
-permalink: /research/
+permalink: /research/summary/
 title: "My Research"
 ---
 
@@ -8,7 +8,7 @@ My research primarily focuses on a particular type of neutron star called a puls
 I am also interested in searching for new pulsars, particularly in globular clusters, dense clusters of stars that have been found to host large populations of millisecond pulsars, pulsars that make a full rotation in less than 30 ms, and potentially other interesting objects, like intermediate mass black holes. Currently my research involves:
 
 1. Helping to develop and write a new pulsar timing data analysis pipeline for NANOGrav which will be used to curate a data set for the detection of gravitational waves.
-2. Writing and developing the Pulsar Signal Simulator, a Python-based software package that can be used to simulate a pulsar signal from emission at the pulsar, through the ISM, observation by the telescope, and out in a common data format.
+2. Writing and developing the [Pulsar Signal Simulator](https://github.com/PsrSigSim/PsrSigSim), a Python-based software package that can be used to simulate a pulsar signal from emission at the pulsar, through the ISM, observation by the telescope, and out in a common data format.
 3. Using the Pulsar Signal Simulator to explore the covariances between different frequency dependent effects, like pulsar dispersion, pulse profile evolution, and pulse scattering by the ISM. This helps determine sources of noise in the pulsar timing data, and determine how accurate the pulsar timing models we find are.
 4. Searching globular clusters for new millisecond pulsar systems.
 
