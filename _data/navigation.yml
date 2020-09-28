@@ -15,7 +15,7 @@ main:
 research:
   - title: My Research
     children:
-      - title: "My Research"
+      - title: "Summary"
         url: /research/summary/
       - title: "Neutron Stars & Pulsars"
         url: /research/pulsars/
