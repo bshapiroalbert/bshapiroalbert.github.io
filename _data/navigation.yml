@@ -19,4 +19,8 @@ research:
         url: /research/summary/
       - title: "Neutron Stars & Pulsars"
         url: /research/pulsars/
+      - title: "Gravitational Waves"
+        url: /research/gws/
+      - title: "Pulsar Timing Arrays"
+        url: /research/ptas/
 
