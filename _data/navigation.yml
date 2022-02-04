@@ -5,6 +5,8 @@ main:
     url: /research/summary/
   - title: "Outreach"
     url: /outreach/
+  - title: "My Portfolio"
+    url: /portfolio/
   - title: "Posts"
     url: /posts/
   #- title: "Categories"
