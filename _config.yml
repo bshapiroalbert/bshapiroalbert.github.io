@@ -19,8 +19,7 @@ email: bshapiroalbert@gmail.com
 locale: en-US
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Brent Shapiro-Albert's personal website. Hello world! Come 
-  learn more about me!
+  Brent Shapiro-Albert's personal website. It's mostly space, astronomy, and video games. What more could you want?
 
 twitter_username: bshapiroalbert
 github_username: bshapiroalbert
@@ -65,7 +64,7 @@ plugins:
 author:
   name   : "Brent Shaprio-Albert"
   avatar : "/assets/images/Shapiro-Albert_Headshot.JPG"
-  bio    : "PhD candidate at WVU studying astrophysics. I like teaching people about astronomy, and I homebrew in my infinite free time."
+  bio    : "Science Writer & Community Advocate for Universe Sandbox. I like teaching people about astronomy, and I homebrew in my infinite free time."
   location : Morgantown, WV
   links:
     #- label: "Website"

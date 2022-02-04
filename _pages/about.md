@@ -2,32 +2,39 @@
 permalink: /about/
 title: "About Me"
 ---
-I’m a fifth year PhD student at West Virginia University in Morgantown, WV. I work for Prof. Maura McLaughlin and am a member of the North American Nanohertz Observatory for Gravitational Waves ([NANOGrav](http://nanograv.org/)) Collaboration, which uses pulsar timing arrays to detect nanohertz gravitational waves. My research mostly involves pulsars, pulsar timing, studying how the interstellar medium affects pulsar signals, and a little bit of pulsar searching. More on that [here](research.md).
+I'm currently the Science Writer & Community Advocate for [Universe Sandbox](https://universesandbox.com/), a physics-based space simulator masquerading as a video game. I have the amazing job of interacting with our users and getting to write about all of the awesome science and simulations that Universe Sandbox can do (as well as its limitations).
 
+## The Before Times:
 
-## My Story:
+Before I started working at Giant Army (the company that makes Universe Sandbox) I got my Ph.D. in physics from West Virginia University in Spring 2021. While in grad school, I worked for Prof. Maura McLaughlin and was a member of the North American Nanohertz Observatory for Gravitational Waves ([NANOGrav](http://nanograv.org/)) Collaboration, which uses pulsar timing arrays to detect nanohertz gravitational waves.
 
-I am originally from a small town in the northwest corner of Connecticut. My Dad taught high school physics and my Mom was the directory of our town’s local historical society. While I always was interested in science, my favorite subject was always history. When I was applying to college I wanted to major in history and eventually work in a museum. 
+My research involved pulsars, pulsar timing, studying how the interstellar medium affects pulsar signals, and a little bit of searching the skies for new pulsars. More on that [here](research.md).
 
-I ended up at Union College in Schenectady, NY, a small liberal arts school, intending to major in history. My Mom spent the entirety of my first semester trying to convince me to major in a STEM field instead, and eventually convinced me to do so, saying I could always go back to history, but it would be much harder to go back to science. So I decided I was going to major in biology. Only, without being a pre-med or bio major, it was very difficult to get into a biology class, so I eventually ended up in introductory physics instead. I didn’t like physics at that point, it was my least favorite science subject, but I figured I could always just get a science credit done and then go back to history.
+## My (much too long) Story:
 
-But I ended up really liking physics. It was challenging and it made sense to me. I switched to a physics major, and was even more excited when I learned that I could do astronomy through physics, which sounded perfect, as Dr. Who is one of my favorite shows. I ended up doing research at Union College the summer after my sophomore year working on the college small radio telescope. It was the first time I had ever heard of radio astronomy, and after that Summer, I decided I wanted to do telescope instrumentation. 
+I am originally from a small town in the northwest corner of Connecticut. My Dad taught high school physics, and my Mom was the director of our town's local historical society. While I always was interested in science, my favorite subject was history. When I was applying to college, I wanted to study history and work in a museum. 
+
+I ended up at Union College in Schenectady, NY, a small liberal arts school. My Mom spent the entirety of my first semester convincing me to study science, any science, instead of history. As you can probably guess, she was successful in this endeavor, and I decided I would study biology. Only, I couldn't get into a biology class, and I ended up in introductory physics instead. I didn't like physics. So I figured I'd tried, and I'd get a science credit and then go back to history.
+
+But I ended up really liking physics. It was challenging, where history wasn't (at least for me). I was even more excited when I learned that I could study astronomy through physics because I was super into Dr. Who at the time. After my sophomore year, I spent the summer doing research on the small radio telescope with a professor at Union.
 
 ![alt text](../assets/images/SRT.JPG)
 
-Me with the small radio telescope I worked on at Union College in May 2016.
+Me with the small radio telescope I worked on at Union College circa May 2016
 
-The next summer I had the opportunity to do a research experience for undergraduates (REU) at Cornell University, working for Prof. Jim Cordes where I first heard of neutron stars and pulsars, and decided that I would rather study them than do telescope instrumentation. I also realized that Summer that I really wanted to go to graduate school and do research. I applied to graduate schools that Fall and ended up at West Virginia University, where I have been since.
+The following summer, I had the opportunity to do a research experience for undergraduates (REU) at Cornell University, where I first heard of neutron stars and pulsars. After that, I decided to go to graduate school and continue researching pulsars. I applied to graduate schools that Autumn and ended up at West Virginia University.
+
+While there, I started doing a lot of science outreach and education (learn more about that [here](outreach.md)). Over the years, I realized that what I wanted to do was continue doing science communication through demos, writing, or what have you, and got lucky enough to land my current job as the Science Writer & Community Advocate for Universe Sandbox.
 
 ## Hobbies:
 
-In addition to research and other science related activities, I enjoy hiking and there are many different trails and parks to explore in WV. I also enjoy watching sports, particularly hockey (go Flyers) and football (go Patriots, sorry). The Summer Olympics are my favorite thing to watch though, as it’s one of the only times I get to watch wrestling, which I did through high school, and track and field, which I did starting in high school through college. My event was pole vault, so of course it’s my favorite one to watch.
+In addition to science-related activities, I enjoy hiking, watching sports, brewing beer, reading (particularly fantasy and science fiction), and video games. 
+
+Recently I've been reading Brandon Sanderson's Stormlight Archives, and I enjoy playing 2-D platforms, like Shovel Knight and Hollow Knight (though I like many other games too).
 
 ![alt text](../assets/images/Me_Hiking.JPG)
-Me at Holly River State Park in West Virginia, Fall of 2020.
-
-When there’s no sports on and we can’t go hiking, I also enjoy reading, particularly fantasy and science fiction, and video games. Recently I’ve been reading Brandon Sanderson’s Mistborn series and the Stormlight Archives. I am also a big fan of Patrick Rothfuss’s Kingkiller Chronicles, and am still waiting for the last few Game of Thrones books. For video games I’m a big fan of the Legend of Zelda series, Breath of the Wild was fantastic, and Final Fantasy. I would also highly recommend Shovel Knight and Hollow Knight, two great indie games.
+Me at Holly River State Park in West Virginia, Fall 2020.
 
 ## Contact:
 
-If you’d like to get in touch with me about my research or anything else, you can email me at bshapiroalbert@gmail.com or find me on twitter @bshapiroalbert.
+If you’d like to get in touch with me, you can email me at bshapiroalbert@gmail.com or find me on twitter @bshapiroalbert.
