@@ -1,6 +1,6 @@
 main:
   - title: "About Me"
-    url: /about/
+    url: /about/summary
   - title: "My Research"
     url: /research/summary/
   - title: "Outreach"
@@ -12,10 +12,22 @@ main:
   #- title: "Tags"
   #  url: /tags/
 
+about:
+  - title: More About Me
+    children:
+      - title: "Summary"
+        url: /about/summary/
+      - title: "The Before Times"
+        url: /about/before-times/
+      - title: "My (much too long) Story"
+        url: /about/my-story/
+      - title: "Hobbies"
+        url: /about/hobbies/
+
 research:
   - title: My Research
     children:
-      - title: "Summary"
+      - title: "Research Summary"
         url: /research/summary/
       - title: "Neutron Stars & Pulsars"
         url: /research/pulsars/

@@ -37,6 +37,7 @@ paginate_path: /page:num/
 timezone: America/New_York # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
+  - _about
   - _pages
   - _research
 
@@ -119,6 +120,15 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _about
+  - scope:
+      path: "_about"
+      type: pages
+    values:
+      layout: single
+      author_profile: false
+      sidebar:
+        nav : "about"
   # _research
   - scope:
       path: "_research"
