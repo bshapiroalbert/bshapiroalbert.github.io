@@ -145,3 +145,10 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Analytics
+analytics:
+  provider               : "google-gtag"
+  google:
+    measurement_id          : G-E903ZYEEYG
+    anonymize_ip         : # true, false (default)
