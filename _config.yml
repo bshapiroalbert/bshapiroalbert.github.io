@@ -31,6 +31,13 @@ twitter_username: bshapiroalbert
 github_username: bshapiroalbert
 minimal_mistakes_skin: mint
 search: true
+repository: bshapiroalbert/bshapiroalbert.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+comments:
+  provider: "utterances"
+  utterances:
+    theme: "github-light" # "github-dark"
+    issue_term: "pathname"
+    label: "comment" # Optional - must be existing label.
 
 # Build settings
 markdown: kramdown
