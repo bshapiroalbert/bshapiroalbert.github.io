@@ -35,7 +35,7 @@ repository: bshapiroalbert/bshapiroalbert.github.io # GitHub username/repo-name 
 comments:
   provider: "utterances"
   utterances:
-    theme: "github-light" # "github-dark"
+    theme: "github-light" # "github-dark" or other theme
     issue_term: "pathname"
     label: "comment" # Optional - must be existing label.
 
