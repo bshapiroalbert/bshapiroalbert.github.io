@@ -86,7 +86,7 @@ author:
   name   : "Brent Shaprio-Albert"
   avatar : "/assets/images/Shapiro-Albert_Headshot.JPG"
   bio    : "Science Writer & Community Advocate for Universe Sandbox. I like teaching people about astronomy, and I homebrew in my infinite free time."
-  location : Morgantown, WV
+  location : Chicago, IL
   links:
     #- label: "Website"
     #  icon: "fas fa-fw fa-link"
@@ -108,7 +108,7 @@ author:
       url: "https://orcid.org/0000-0002-7283-1124"
     - label: "CV"
       icon: "fas fa-fw fa-file"
-      url: "https://github.com/bshapiroalbert/bshapiroalbert.github.io/raw/master/assets/files/Shapiro_Albert_CV_website.pdf"
+      url: "https://github.com/bshapiroalbert/bshapiroalbert.github.io/blob/main/assets/files/Shapiro_Albert_CV_website.pdf"
 
 footer:
   links:

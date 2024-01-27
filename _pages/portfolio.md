@@ -23,4 +23,4 @@ You can find a list of my publications at this [ADS link](https://ui.adsabs.harv
 
 This link includes papers I have led and papers I have been a co-author on.
 
-If you are genuinely a masochist, you can [download my Ph.D. dissertation](https://github.com/bshapiroalbert/bshapiroalbert.github.io/raw/master/assets/files/Shapiro-Albert_Dissertation.pdf).
+If you are genuinely a masochist, you can [download my Ph.D. dissertation](https://github.com/bshapiroalbert/bshapiroalbert.github.io/blob/main/assets/files/Shapiro-Albert_Dissertation.pdf).
